@@ -37,11 +37,14 @@
 <br>
 
 ## Preview
-<div align="center">
-## WATCH THE DEMO(Click on the Video Below)
 
-[![Watch the Demo](https://img.youtube.com/vi/8oD3TRyddpQ/hqdefault.jpg)](https://youtu.be/8oD3TRyddpQ?si=pml-lF20EHBY-8hd)
+<div align="center">
+  <h2 style="margin-bottom: 0.5em;">WATCH THE DEMO (Click on the Video Below)</h2>
+  <a href="https://youtu.be/8oD3TRyddpQ?si=pml-lF20EHBY-8hd">
+    <img src="https://img.youtube.com/vi/8oD3TRyddpQ/hqdefault.jpg" alt="Watch the Demo" style="max-width:100%; height:auto;">
+  </a>
 </div>
+
 
 <div align="center">
   <img src="assets/banner1.png" alt="Banner 1" width="30%" style="margin:10px;">
