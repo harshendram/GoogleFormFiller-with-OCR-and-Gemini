@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "name": "Google Forms Solver-Gemini Powered with OCR",
+  "version": "1.0",
+  "description": "A Chrome extension that scans questions and options from Google Forms, fetches data, and generates answers to help form completion.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "declarativeContent"
+  ],
+  "host_permissions": [
+    "https://docs.google.com/forms/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://docs.google.com/forms/*"],
+      "js": ["content.js", "autofill.js"]
+    }
+  ],
+ "commands": {
+    "trigger-fetch": {
+      "suggested_key": {
+        "default": "Alt+A"
+      },
+      "description": "Trigger fetching form data"
+    },
+    "trigger-autofill": {
+      "suggested_key": {
+        "default": "Alt+C"
+      },
+      "description": "Trigger autofill"
+    }
+  },
+  "icons": {
+    "16": "images/logo.png",
+    "32": "images/logo.png",
+    "48": "images/logo.png",
+    "64": "images/logo.png",
+    "128": "images/logo.png",
+    "256": "images/logo.png",
+    "512": "images/logo.png"
+  }
+}
