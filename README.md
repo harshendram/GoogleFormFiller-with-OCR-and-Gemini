@@ -3,7 +3,7 @@
 
 # **Google Form AI Response with OCR detection - Chrome Extension** 🌐
 
-*An efficient, **enhanced** tool to scan Google Form questions, retrieve options, and process them for **lightning-fast** answer generation—complete with advanced OCR, multi-language support, and caching!*
+*An efficient, **enhanced** tool to scan Google Form questions, retrieve options, and process them for **lightning-fast** answer generation—complete with advanced OCR, batching and pipeline mimicing, multi-language support, and caching!*
 
 </div>
 
