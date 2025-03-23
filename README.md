@@ -1,5 +1,5 @@
 
----
+
 
 ```markdown
 # Gemini Extension v1.0
@@ -34,7 +34,7 @@ Gemini Extension is a free, lightning-fast Chrome extension designed to automate
   • Supports both light and dark modes for a comfortable viewing experience  
   • Clean, minimal design optimized for students and busy professionals
 
----
+
 
 ## Installation
 
@@ -59,7 +59,7 @@ Gemini Extension is a free, lightning-fast Chrome extension designed to automate
 2. Enable **Developer mode** (toggle in the upper right).
 3. Click **Load unpacked** and select your extension folder containing the `manifest.json`.
 
----
+
 
 ## Usage
 
@@ -75,31 +75,30 @@ Gemini Extension is a free, lightning-fast Chrome extension designed to automate
 - **Discreet Operation:**  
   The extension is designed with stealth in mind, so your keystroke shortcuts keep your workflow smooth and unnoticed.
 
----
+
 
 ## Deployment on Render
 
 Your backend is hosted on Render.com. Render automatically deploys changes when you push updates to your GitHub repository. For details, refer to our [Render Deployment Guide](#) (replace with your link if needed).
 
----
+
 
 ## Privacy Policy
 
 Gemini Extension does not collect, store, or transmit any personal or sensitive information. All data is processed locally and any necessary data fetched from your backend is used solely for autofilling your forms.
 
----
+
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
 
----
+
 
 ## Roadmap
 
@@ -107,12 +106,12 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 - Enhanced UI customization options  
 - Additional language support for OCR and form processing
 
----
+
 
 *Gemini Extension v1.0 – Fast, accurate, and completely free. Get ready to breeze through your forms!*
-```
 
----
+
+
 
 ### **Additional Notes:**
 
