@@ -37,11 +37,11 @@
 <br>
 
 ## Preview
-
-## WATCH THE DEMO
+<div align="center">
+## WATCH THE DEMO(Click on the Video Below)
 
 [![Watch the Demo](https://img.youtube.com/vi/8oD3TRyddpQ/hqdefault.jpg)](https://youtu.be/8oD3TRyddpQ?si=pml-lF20EHBY-8hd)
-
+</div>
 
 <div align="center">
   <img src="assets/banner1.png" alt="Banner 1" width="30%" style="margin:10px;">
