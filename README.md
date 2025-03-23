@@ -1,7 +1,7 @@
 
 
 
-```markdown
+
 # Gemini Extension v1.0
 
 Gemini Extension is a free, lightning-fast Chrome extension designed to automate Google Form completion. It fetches form data, autofills answers using advanced AI powered by the fine-tuned Gemini 2.0 Flash model, and caches responses for reliability. With robust OCR and multilingual support, it’s perfect for students and professionals who need a discreet, efficient way to handle lengthy forms.
