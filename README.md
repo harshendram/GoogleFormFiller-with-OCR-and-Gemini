@@ -137,7 +137,7 @@ Contributions are welcome! To contribute:
 
 ## Contact 📬
 
-For any questions or support, feel free to reach out at [your-email@example.com](mailto:harshendra16@gmail.com).
+For any questions or support, feel free to reach out at [harshendra16@gmail.com](mailto:harshendra16@gmail.com).
 
 
 
