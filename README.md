@@ -23,7 +23,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="[https://img.shields.io/github/stars/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github](https://img.shields.io/github/stars/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github)"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
