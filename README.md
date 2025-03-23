@@ -1,124 +1,146 @@
 
+<div align="center">
 
+# **Google Form AI Response - Chrome Extension** 🌐
 
+*An efficient, **enhanced** tool to scan Google Form questions, retrieve options, and process them for **lightning-fast** answer generation—complete with advanced OCR, multi-language support, and caching!*
 
-# Gemini Extension v1.0
+</div>
 
-Gemini Extension is a free, lightning-fast Chrome extension designed to automate Google Form completion. It fetches form data, autofills answers using advanced AI powered by the fine-tuned Gemini 2.0 Flash model, and caches responses for reliability. With robust OCR and multilingual support, it’s perfect for students and professionals who need a discreet, efficient way to handle lengthy forms.
+<div align="center">
+<br>
 
----
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Closed PRs</b></td>
+            <td><b>🛠️ Languages</b></td>
+            <td><b>👥 Contributors</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&logo=github"/></td>
+            <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&color=green&logo=github"></td>
+            <td><img alt="GitHub Contributors count" src="https://img.shields.io/github/contributors/harshendram/GoogleFormFiller-with-OCR-and-Gemini?style=flat&color=blue&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<br>
 
-## Key Features
+## Features 📋
 
 - **Free & Fast**  
-  • 100% free – no hidden costs  
-  • Autofills forms in as little as **2.6 seconds** using an efficient batch processing system
+  - 100% free – no hidden costs  
+  - Autofill forms in as little as 2.6 seconds using an efficient batch processing system
 
 - **Advanced AI & Image Processing**  
-  • Powered by the fine-tuned **Gemini 2.0 Flash** model for highly accurate answers  
-  • Advanced OCR extracts text from images in multiple languages (Hindi, Tamil, Kannada, Malayalam, Telugu, etc.) and preserves mathematical formulas perfectly
+  - Powered by the fine-tuned Gemini 2.0 Flash model for highly accurate answers and multilingual support  
+  - Cutting-edge OCR extracts text from images in multiple languages (Hindi, Tamil, Kannada, Malayalam, Telugu, etc.) and preserves mathematical formulas perfectly
 
 - **Robust Caching & Reliability**  
-  • Auto-caching: If your form accidentally closes, your answers are saved and reloaded instantly  
-  • “Oops! Got your form closed? Don't worry—your data is always ready and waiting.”
+  - Oops! Closed your form? Don’t worry—answers are cached, so they’re ready the next time you open it  
+  - Never lose your data—your work remains safe and accessible
 
 - **Stealth Keystroke Shortcuts**  
-  • Use **Alt+A** to fetch form data discreetly  
-  • Use **Alt+C** to trigger autofill instantly  
-  • Perfect for those moments when you need to work under the radar
+  - Afraid of opening a popup in front of a teacher? Use Alt+A to fetch form data discreetly  
+  - Use Alt+C to trigger autofill instantly
 
 - **Efficient Batching System**  
-  • Automatically splits large forms (60+ questions) into smaller batches for rapid, error-free processing without exceeding token limits
+  - Automatically splits large forms (60+ questions) into smaller batches for rapid, error-free processing without exceeding token limits
 
 - **User-Friendly Interface**  
-  • Supports both light and dark modes for a comfortable viewing experience  
-  • Clean, minimal design optimized for students and busy professionals
+  - Supports both light and dark modes for a comfortable viewing experience  
+  - Clean, minimal design perfect for students and busy professionals
+
+## Why This Extension?
+
+Unlike other tools, **Google Form AI Response - Chrome Extension** offers:
+
+- **Greater Accuracy** with a fine-tuned model
+- **Faster Autofill** through advanced batching
+- **Better OCR** for math formulas and multiple languages
+- **Reliability** via auto-caching and stealth keystrokes
+
+It’s built to **save you time** and **reduce stress**, making it an all-in-one solution for complex Google Forms.
 
 
 
-## Installation
+## Technologies Used 🔧
 
-### Local Development
-1. **Clone the Repository:**
+- **Frontend**  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Backend**  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5d5d5d?style=for-the-badge&logo=tesseract&logoColor=white)
+  ![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+
+## Getting Started 🚀
+
+1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/harshendram/chrome-ext-backend.git
-   cd chrome-ext-backend
+   git clone https://github.com/harshendram/GoogleFormFiller-with-OCR-and-Gemini.git
+   cd GoogleFormFiller-with-OCR-and-Gemini
    ```
-2. **Install Dependencies:**
+
+2. **Install Dependencies**  
    ```bash
    npm install
    ```
-3. **Run the Backend Locally:**
+
+3. **Run the Backend**  
    ```bash
    npm start
    ```
-   *(Ensure that your `tessdata` folder is in the correct location relative to your working directory.)*
-
-### Chrome Extension Testing
-1. Open Chrome and navigate to `chrome://extensions/`
-2. Enable **Developer mode** (toggle in the upper right).
-3. Click **Load unpacked** and select your extension folder containing the `manifest.json`.
+   *(Adjust commands if needed, e.g. `node src/server.js`.)*
 
 
 
-## Usage
+## Loading the Extension Locally
 
-- **When you open a Google Form:**  
-  Gemini Extension automatically detects the form and caches your answers.
-  
-- **To Fetch Data:**  
-  Click the **Fetch Form Data** button or press **Alt+A** to retrieve your form data.
-  
-- **To Autofill:**  
-  Click the **Auto Fill** button or press **Alt+C** to automatically fill in the form.
+1. **Open the Chrome Extensions Page**  
+   Go to `chrome://extensions/`
 
-- **Discreet Operation:**  
-  The extension is designed with stealth in mind, so your keystroke shortcuts keep your workflow smooth and unnoticed.
+2. **Enable Developer Mode**  
+   Toggle the **Developer mode** on (usually top-right corner).
+
+3. **Load the Unpacked Extension**  
+   Click **Load unpacked** and select the folder containing `manifest.json`.
 
 
 
-## Deployment on Render
+## Contributing 🤝
 
-Your backend is hosted on Render.com. Render automatically deploys changes when you push updates to your GitHub repository. For details, refer to our [Render Deployment Guide](#) (replace with your link if needed).
+Contributions are welcome! To contribute:
 
-
-
-## Privacy Policy
-
-Gemini Extension does not collect, store, or transmit any personal or sensitive information. All data is processed locally and any necessary data fetched from your backend is used solely for autofilling your forms.
-
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+1. **Fork the repository**  
+2. **Create a new branch** (e.g. `feature/your-feature`)  
+3. **Make your changes** and commit  
+4. **Push your branch**  
+5. **Open a pull request**
 
 
 
-## Roadmap
+## Contact 📬
 
-- Further improvements in batching and error handling  
-- Enhanced UI customization options  
-- Additional language support for OCR and form processing
+For any questions or support, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
 
 
 
-*Gemini Extension v1.0 – Fast, accurate, and completely free. Get ready to breeze through your forms!*
-
-
-
-
-### **Additional Notes:**
-
-- **Version 1 Release:**  
-  This README reflects the first public release of your extension.  
-- **Customizations:**  
-  You can update links, logos, and additional details as your project evolves.  
-- **Deployment:**  
-  Ensure your GitHub repository is set up with auto-deploy (if desired) so that updates are pushed automatically to Render.
-
+<div align="center">
+Made with ❤️ by [@harshendram](https://github.com/harshendram)
+</div>
