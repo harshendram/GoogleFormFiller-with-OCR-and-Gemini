@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# **Google Form AI Response - Chrome Extension** 🌐
+# **Google Form AI Response with OCR detection - Chrome Extension** 🌐
 
 *An efficient, **enhanced** tool to scan Google Form questions, retrieve options, and process them for **lightning-fast** answer generation—complete with advanced OCR, multi-language support, and caching!*
 
@@ -56,7 +56,7 @@
   - Use Alt+C to trigger autofill instantly
 
 - **Efficient Batching System**  
-  - Automatically splits large forms (60+ questions) into smaller batches for rapid, error-free processing without exceeding token limits
+  - Automatically splits large forms (60+ questions) into smaller batches for rapid, error-free processing without exceeding token limits.
 
 - **User-Friendly Interface**  
   - Supports both light and dark modes for a comfortable viewing experience  
